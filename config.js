@@ -58,8 +58,8 @@ window.WEDDING_CONFIG = {
   ],
   gallery: [
     
-    { title: "On a Drive", image: "assets/gallery-2.jpeg" },
-    { title: "Airport", image: "assets/gallery-3.jpg" },
+    { title: "", image: "assets/gallery-2.jpeg" },
+    { title: "", image: "assets/gallery-3.jpg" },
     
   ],
   families: {
