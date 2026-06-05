@@ -63,7 +63,7 @@ window.WEDDING_CONFIG = {
     
   ],
   families: {
-    bride: ["Sunil Dutt", "Sindhu balan", "Sreyas Sunil Dutt"],
+    bride: ["Sunil Dutt", "Sindhu Balan", "Sreyas Sunil Dutt"],
     groom: ["KR Rajan Pillai", "Rema Devi", "Abhijith Kumar KR"]
   },
   calendar: {
