@@ -57,7 +57,7 @@ window.WEDDING_CONFIG = {
     }
   ],
   gallery: [
-    { title: "First Time", image: "assets/gallery-1.jpg" },
+    
     { title: "On a Drive", image: "assets/gallery-2.jpeg" },
     { title: "Airport", image: "assets/gallery-3.jpg" },
     
