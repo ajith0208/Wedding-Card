@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Wedding ring placeholder">
+  <defs>
+    <linearGradient id="gold" x1="22" x2="182" y1="30" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff6ba"/>
+      <stop offset=".24" stop-color="#f1d77a"/>
+      <stop offset=".55" stop-color="#d4af37"/>
+      <stop offset=".78" stop-color="#a66e22"/>
+      <stop offset="1" stop-color="#fff1a8"/>
+    </linearGradient>
+    <radialGradient id="shine" cx=".35" cy=".28" r=".65">
+      <stop stop-color="#fff9d6"/>
+      <stop offset=".42" stop-color="#f1d77a" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="110" cy="116" r="72" fill="none" stroke="#8b5b1d" stroke-width="28" opacity=".35"/>
+  <circle cx="110" cy="108" r="72" fill="none" stroke="url(#gold)" stroke-width="24"/>
+  <circle cx="110" cy="108" r="52" fill="none" stroke="#fff7cf" stroke-width="4" opacity=".7"/>
+  <path d="M68 47l22-26h40l22 26-42 45z" fill="url(#gold)"/>
+  <path d="M90 21l20 45 20-45z" fill="#fff7cf" opacity=".75"/>
+  <path d="M68 47h84" stroke="#fff7cf" stroke-width="5" opacity=".75"/>
+  <circle cx="110" cy="108" r="92" fill="url(#shine)" opacity=".55"/>
+</svg>

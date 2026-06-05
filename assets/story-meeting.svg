@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-label="First meeting illustration">
+  <rect width="760" height="520" fill="#fffaf2"/>
+  <circle cx="380" cy="210" r="155" fill="#d4af37" opacity=".2"/>
+  <path d="M120 380c96-86 164-86 260 0s164 86 260 0" fill="none" stroke="#6d1f2f" stroke-width="16" opacity=".35"/>
+  <g fill="#6d1f2f"><circle cx="300" cy="235" r="52"/><circle cx="460" cy="235" r="52"/></g>
+  <g fill="#d4af37"><path d="M250 420c14-98 48-150 100-150s86 52 100 150z"/><path d="M410 420c14-98 48-150 100-150s86 52 100 150z"/></g>
+  <path d="M365 250c18-22 50-22 68 0" fill="none" stroke="#b76e79" stroke-width="8"/>
+</svg>
